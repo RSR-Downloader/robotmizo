@@ -24,9 +24,7 @@ I'm a group manager Bot maintained by  [RSR](https://t.me/rsrmusic).
 
 My future updates will be put into This Channel - @mizolibrary & My Support Group @rsrtginfo.
 
-
-
-For more commands click /help...
+For more commands click /help
 
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
