@@ -18,17 +18,15 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Hi {}, my name is {}! if you have any questions about how to use me please give me /help 
 
-I'm a group manager Bot maintained by  [RSR](https://t.me/rsrmusic).
+I'm a group manager Bot
 
 My future updates will be put into This Channel - @mizolibrary & My Support Group @rsrtginfo.
 
 For more commands click /help
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
-"""
 
 HELP_STRINGS = """
 
